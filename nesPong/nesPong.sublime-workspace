@@ -1,0 +1,1613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"change",
+				"changeDirB"
+			],
+			[
+				"chan",
+				"changeDirA"
+			],
+			[
+				"det",
+				"detPad1ColMid"
+			],
+			[
+				"detCol",
+				"detPad1ColTop"
+			],
+			[
+				"pad2B",
+				"pad2BotY1"
+			],
+			[
+				"pad2bo",
+				"pad2BotY0"
+			],
+			[
+				"pad2Bot",
+				"pad2BotX0"
+			],
+			[
+				"pad2Mid",
+				"pad2MidY1"
+			],
+			[
+				"pad2Mi",
+				"pad2MidX1"
+			],
+			[
+				"pad2Topy",
+				"pad2TopY0"
+			],
+			[
+				"bally",
+				"bally0"
+			],
+			[
+				"pad1Bo",
+				"pad1BotX1"
+			],
+			[
+				"pad1Boty",
+				"pad1BotY1"
+			],
+			[
+				"no",
+				"noHit"
+			],
+			[
+				"pad1Bot",
+				"pad1BotY1"
+			],
+			[
+				"pad1Midy",
+				"pad1MidY1"
+			],
+			[
+				"hit",
+				"hitDetected"
+			],
+			[
+				"pad1Topy",
+				"pad1TopY1"
+			],
+			[
+				"pad1Top",
+				"pad1TopX1"
+			],
+			[
+				"pad1Topx",
+				"pad1TopX0"
+			],
+			[
+				"pad2",
+				"pad2TopY1"
+			],
+			[
+				"pad1Boy",
+				"pad1BotY0"
+			],
+			[
+				"pad2TopY",
+				"pad2TopY1"
+			],
+			[
+				"pad2Top",
+				"pad2TopY0"
+			],
+			[
+				"PADD",
+				"PADDLE2"
+			],
+			[
+				"pad2Topx",
+				"pad2TopX1"
+			],
+			[
+				"P",
+				"PADDLE2"
+			],
+			[
+				"pad1bo",
+				"pad1BotY1"
+			],
+			[
+				"pad1Mi",
+				"pad1MidY1"
+			],
+			[
+				"pad1M",
+				"pad1MidX0"
+			],
+			[
+				"Pa",
+				"PADDLE1"
+			],
+			[
+				"PA",
+				"PADDLE1"
+			],
+			[
+				"pad1B",
+				"pad1BotX0"
+			],
+			[
+				"pad1Mid",
+				"pad1MidX1"
+			],
+			[
+				"pad1",
+				"pad1BotX1"
+			],
+			[
+				"paddle",
+				"paddle1y0"
+			],
+			[
+				"end",
+				"End"
+			],
+			[
+				"R",
+				"RIGHTWALL"
+			],
+			[
+				"END",
+				"End"
+			],
+			[
+				"ball",
+				"ballspeedx"
+			],
+			[
+				"sta",
+				"STA"
+			],
+			[
+				"move",
+				"movePaddle1Up"
+			],
+			[
+				"PAD",
+				"PADDLE2"
+			],
+			[
+				"pad",
+				"pad2V"
+			],
+			[
+				"update",
+				"updatePaddle2Location"
+			],
+			[
+				"bu",
+				"buttons2"
+			],
+			[
+				"ba",
+				"ballright"
+			],
+			[
+				"c",
+				"collisionDetected"
+			],
+			[
+				"upd",
+				"updateScore2"
+			],
+			[
+				"SC",
+				"SCOREP1"
+			],
+			[
+				"balls",
+				"ballspeedy"
+			],
+			[
+				"ballsp",
+				"ballspeedx"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"sc",
+				"score1"
+			],
+			[
+				"sco",
+				"score1"
+			],
+			[
+				"Ch",
+				"checkCollisionPad2"
+			],
+			[
+				"upda",
+				"updatePaddleLocation2"
+			],
+			[
+				"updatePa",
+				"updatePaddleLocation2"
+			],
+			[
+				"u",
+				"updatePaddleLocation1"
+			],
+			[
+				"updat",
+				"updatePaddleLocation1"
+			],
+			[
+				"up",
+				"updatePaddle2Collision"
+			],
+			[
+				"Upd",
+				"UpdatePaddle1"
+			],
+			[
+				"paddl",
+				"paddle1y0"
+			],
+			[
+				"padde",
+				"paddle1x0"
+			],
+			[
+				"check",
+				"checkCollisionPad2"
+			],
+			[
+				"paddlex1",
+				"paddle1x1"
+			],
+			[
+				"padd",
+				"paddle1y0"
+			],
+			[
+				"paddle1x",
+				"paddle1x1"
+			],
+			[
+				"Up",
+				"UpdatePaddle1Location"
+			],
+			[
+				"Upda",
+				"UpdatePaddle1Location"
+			],
+			[
+				"PDA",
+				"PADDLE2X"
+			],
+			[
+				"Pad",
+				"PADDLE2"
+			],
+			[
+				"p",
+				"paddle1ytop"
+			],
+			[
+				"pa",
+				"paddle1ytop"
+			],
+			[
+				"PD",
+				"PADDLE2X"
+			],
+			[
+				"paddley",
+				"paddle2ybot"
+			],
+			[
+				"ballspe",
+				"ballspeedy"
+			],
+			[
+				"butt",
+				"buttons2"
+			],
+			[
+				"but",
+				"buttons1"
+			],
+			[
+				"Se",
+				"SelectHeld"
+			],
+			[
+				"U",
+				"UpHeld"
+			],
+			[
+				"Rea",
+				"ReadController2"
+			],
+			[
+				"Re",
+				"ReadController1"
+			],
+			[
+				"game",
+				"gamestate"
+			],
+			[
+				"St",
+				"STA"
+			],
+			[
+				"roo",
+				"room\t(?)"
+			],
+			[
+				"console",
+				"console.\tconsole.error()"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"in",
+				"includes"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"N",
+				"NLOCK_UNLOCKED"
+			],
+			[
+				"e",
+				"ez_35"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pong.asm",
+			"settings":
+			{
+				"buffer_size": 20244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Downloads/angular.min.js",
+			"settings":
+			{
+				"buffer_size": 168828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Downloads/easy6502-gh-pages/easy6502-gh-pages/simulator/assembler.js",
+			"settings":
+			{
+				"buffer_size": 67264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Desktop/js/assignment_1.js",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*\n*  6502 assembler and simulator in Javascript\n*  (C)2006-2010 Stian Soreng - www.6502asm.com\n*\n*  Adapted by Nick Morgan\n*  https://github.com/skilldrick/6502js\n*\n*  Released under the GNU General Public License\n*  see http://gnu.org/licenses/gpl.html\n*/\n\n\nfunction SimulatorWidget(node) {\n  var $node = $(node);\n  var ui = UI();\n  var display = Display();\n  var memory = Memory();\n  var labels = Labels();\n  var simulator = Simulator();\n  var assembler = Assembler();\n\n  function initialize() {\n    stripText();\n    ui.initialize();\n    display.initialize();\n    simulator.reset();\n\n    $node.find('.assembleButton').click(function () {\n      assembler.assembleCode();\n    });\n    $node.find('.runButton').click(simulator.runBinary);\n    $node.find('.runButton').click(simulator.stopDebugger);\n    $node.find('.resetButton').click(simulator.reset);\n    $node.find('.hexdumpButton').click(assembler.hexdump);\n    $node.find('.disassembleButton').click(assembler.disassemble);\n    $node.find('.debug').change(function () {\n      var debug = $(this).is(':checked');\n      if (debug) {\n        ui.debugOn();\n        simulator.enableDebugger();\n      } else {\n        ui.debugOff();\n        simulator.stopDebugger();\n      }\n    });\n    $node.find('.monitoring').change(function () {\n      ui.toggleMonitor();\n      simulator.toggleMonitor();\n    });\n    $node.find('.stepButton').click(simulator.debugExec);\n    $node.find('.gotoButton').click(simulator.gotoAddr);\n    $node.find('.notesButton').click(ui.showNotes);\n    $node.find('.code').keypress(simulator.stop);\n    $node.find('.code').keypress(ui.initialize);\n    $(document).keypress(memory.storeKeypress);\n  }\n\n  function stripText() {\n    //Remove leading and trailing space in textarea\n    var text = $node.find('.code').val();\n    text = text.replace(/^\\n+/, '').replace(/\\s+$/, '');\n    $node.find('.code').val(text);\n  }\n\n  function UI() {\n    var currentState;\n\n    var start = {\n      assemble: true,\n      run: [false, 'Run'],\n      reset: false,\n      hexdump: false,\n      disassemble: false,\n      debug: [false, false]\n    };\n    var assembled = {\n      assemble: false,\n      run: [true, 'Run'],\n      reset: true,\n      hexdump: true,\n      disassemble: true,\n      debug: [true, false]\n    };\n    var running = {\n      assemble: false,\n      run: [true, 'Stop'],\n      reset: true,\n      hexdump: false,\n      disassemble: false,\n      debug: [true, false]\n    };\n    var debugging = {\n      assemble: false,\n      reset: true,\n      hexdump: true,\n      disassemble: true,\n      debug: [true, true]\n    };\n    var postDebugging = {\n      assemble: false,\n      reset: true,\n      hexdump: true,\n      disassemble: true,\n      debug: [true, false]\n    };\n\n\n    function setState(state) {\n      $node.find('.assembleButton').attr('disabled', !state.assemble);\n      if (state.run) {\n        $node.find('.runButton').attr('disabled', !state.run[0]);\n        $node.find('.runButton').val(state.run[1]);\n      }\n      $node.find('.resetButton').attr('disabled', !state.reset);\n      $node.find('.hexdumpButton').attr('disabled', !state.hexdump);\n      $node.find('.disassembleButton').attr('disabled', !state.disassemble);\n      $node.find('.debug').attr('disabled', !state.debug[0]);\n      $node.find('.debug').attr('checked', state.debug[1]);\n      $node.find('.stepButton').attr('disabled', !state.debug[1]);\n      $node.find('.gotoButton').attr('disabled', !state.debug[1]);\n      currentState = state;\n    }\n\n    function initialize() {\n      setState(start);\n    }\n\n    function play() {\n      setState(running);\n    }\n\n    function stop() {\n      setState(assembled);\n    }\n\n    function debugOn() {\n      setState(debugging);\n    }\n\n    function debugOff() {\n      setState(postDebugging);\n    }\n\n    function assembleSuccess() {\n      setState(assembled);\n    }\n\n    function toggleMonitor() {\n      $node.find('.monitor').toggle();\n    }\n\n    function showNotes() {\n      $node.find('.messages code').html($node.find('.notes').html());\n    }\n\n    return {\n      initialize: initialize,\n      play: play,\n      stop: stop,\n      assembleSuccess: assembleSuccess,\n      debugOn: debugOn,\n      debugOff: debugOff,\n      toggleMonitor: toggleMonitor,\n      showNotes: showNotes\n    };\n  }\n\n\n  function Display() {\n    var displayArray = [];\n    var palette = [\n      \"#000000\", \"#ffffff\", \"#880000\", \"#aaffee\",\n      \"#cc44cc\", \"#00cc55\", \"#0000aa\", \"#eeee77\",\n      \"#dd8855\", \"#664400\", \"#ff7777\", \"#333333\",\n      \"#777777\", \"#aaff66\", \"#0088ff\", \"#bbbbbb\"\n    ];\n    var ctx;\n    var width;\n    var height;\n    var pixelSize;\n    var numX = 32;\n    var numY = 32;\n\n    function initialize() {\n      var canvas = $node.find('.screen')[0];\n      width = canvas.width;\n      height = canvas.height;\n      pixelSize = width / numX;\n      ctx = canvas.getContext('2d');\n      reset();\n    }\n\n    function reset() {\n      ctx.fillStyle = \"black\";\n      ctx.fillRect(0, 0, width, height);\n    }\n\n    function updatePixel(addr) {\n      ctx.fillStyle = palette[memory.get(addr) & 0x0f];\n      var y = Math.floor((addr - 0x200) / 32);\n      var x = (addr - 0x200) % 32;\n      ctx.fillRect(x * pixelSize, y * pixelSize, pixelSize, pixelSize);\n    }\n\n    return {\n      initialize: initialize,\n      reset: reset,\n      updatePixel: updatePixel\n    };\n  }\n\n  function Memory() {\n    var memArray = new Array(0x600);\n\n    function set(addr, val) {\n      return memArray[addr] = val;\n    }\n\n    function get(addr) {\n      return memArray[addr];\n    }\n\n    function getWord(addr) {\n      return get(addr) + (get(addr + 1) << 8);\n    }\n\n    // storeByte() - Poke a byte, don't touch any registers\n\n    function storeByte(addr, value) {\n      set(addr, value & 0xff);\n      if ((addr >= 0x200) && (addr <= 0x5ff)) {\n        display.updatePixel(addr);\n      }\n    }\n\n    // storeKeypress() - Store keycode in ZP $ff\n    function storeKeypress(e) {\n      value = e.which;\n      memory.storeByte(0xff, value);\n    }\n\n    function format(start, length) {\n      var html = '';\n      var n;\n\n      for (var x = 0; x < length; x++) {\n        if ((x & 15) === 0) {\n          if (x > 0) { html += \"\\n\"; }\n          n = (start + x);\n          html += num2hex(((n >> 8) & 0xff));\n          html += num2hex((n & 0xff));\n          html += \": \";\n        }\n        html += num2hex(memory.get(start + x));\n        html += \" \";\n      }\n      return html;\n    }\n\n    return {\n      set: set,\n      get: get,\n      getWord: getWord,\n      storeByte: storeByte,\n      storeKeypress: storeKeypress,\n      format: format\n    };\n  }\n\n  function Simulator() {\n    var regA = 0;\n    var regX = 0;\n    var regY = 0;\n    var regP = 0;\n    var regPC = 0x600;\n    var regSP = 0xff;\n    var codeRunning = false;\n    var debug = false;\n    var monitoring = false;\n    var executeId;\n\n    //set zero and negative processor flags based on result\n    function setNVflags(value) {\n      if (value) {\n        regP &= 0xfd;\n      } else {\n        regP |= 0x02;\n      }\n      if (value & 0x80) {\n        regP |= 0x80;\n      } else {\n        regP &= 0x7f;\n      }\n    }\n\n    function setCarryFlagFromBit0(value) {\n      regP = (regP & 0xfe) | (value & 1);\n    }\n\n    function setCarryFlagFromBit7(value) {\n      regP = (regP & 0xfe) | ((value >> 7) & 1);\n    }\n\n    function setNVflagsForRegA() {\n      setNVflags(regA);\n    }\n\n    function setNVflagsForRegX() {\n      setNVflags(regX);\n    }\n\n    function setNVflagsForRegY() {\n      setNVflags(regY);\n    }\n\n    var ORA = setNVflagsForRegA;\n    var AND = setNVflagsForRegA;\n    var EOR = setNVflagsForRegA;\n    var ASL = setNVflags;\n    var LSR = setNVflags;\n    var ROL = setNVflags;\n    var ROR = setNVflags;\n    var LDA = setNVflagsForRegA;\n    var LDX = setNVflagsForRegX;\n    var LDY = setNVflagsForRegY;\n\n    function BIT(value) {\n      if (value & 0x80) {\n        regP |= 0x80;\n      } else {\n        regP &= 0x7f;\n      }\n      if (value & 0x40) {\n        regP |= 0x40;\n      } else {\n        regP &= ~0x40;\n      }\n      if (regA & value) {\n        regP &= 0xfd;\n      } else {\n        regP |= 0x02;\n      }\n    }\n\n    function CLC() {\n      regP &= 0xfe;\n    }\n\n    function SEC() {\n      regP |= 1;\n    }\n\n\n    function CLV() {\n      regP &= 0xbf;\n    }\n\n    function setOverflow() {\n      regP |= 0x40;\n    }\n\n    function DEC(addr) {\n      var value = memory.get(addr);\n      value--;\n      value &= 0xff;\n      memory.storeByte(addr, value);\n      setNVflags(value);\n    }\n\n    function INC(addr) {\n      var value = memory.get(addr);\n      value++;\n      value &= 0xff;\n      memory.storeByte(addr, value);\n      setNVflags(value);\n    }\n\n    function jumpBranch(offset) {\n      if (offset > 0x7f) {\n        regPC = (regPC - (0x100 - offset));\n      } else {\n        regPC = (regPC + offset);\n      }\n    }\n\n    function overflowSet() {\n      return regP & 0x40;\n    }\n\n    function decimalMode() {\n      return regP & 8;\n    }\n\n    function carrySet() {\n      return regP & 1;\n    }\n\n    function negativeSet() {\n      return regP & 0x80;\n    }\n\n    function zeroSet() {\n      return regP & 0x02;\n    }\n\n    function doCompare(reg, val) {\n      if (reg >= val) {\n        SEC();\n      } else {\n        CLC();\n      }\n      val = (reg - val);\n      setNVflags(val);\n    }\n\n    function testSBC(value) {\n      var tmp, w;\n      if ((regA ^ value) & 0x80) {\n        setOverflow();\n      } else {\n        CLV();\n      }\n\n      if (decimalMode()) {\n        tmp = 0xf + (regA & 0xf) - (value & 0xf) + carrySet();\n        if (tmp < 0x10) {\n          w = 0;\n          tmp -= 6;\n        } else {\n          w = 0x10;\n          tmp -= 0x10;\n        }\n        w += 0xf0 + (regA & 0xf0) - (value & 0xf0);\n        if (w < 0x100) {\n          CLC();\n          if (overflowSet() && w < 0x80) { CLV(); }\n          w -= 0x60;\n        } else {\n          SEC();\n          if (overflowSet() && w >= 0x180) { CLV(); }\n        }\n        w += tmp;\n      } else {\n        w = 0xff + regA - value + carrySet();\n        if (w < 0x100) {\n          CLC();\n          if (overflowSet() && w < 0x80) { CLV(); }\n        } else {\n          SEC();\n          if (overflowSet() && w >= 0x180) { CLV(); }\n        }\n      }\n      regA = w & 0xff;\n      setNVflagsForRegA();\n    }\n\n    function testADC(value) {\n      var tmp;\n      if ((regA ^ value) & 0x80) {\n        CLV();\n      } else {\n        setOverflow();\n      }\n\n      if (decimalMode()) {\n        tmp = (regA & 0xf) + (value & 0xf) + carrySet();\n        if (tmp >= 10) {\n          tmp = 0x10 | ((tmp + 6) & 0xf);\n        }\n        tmp += (regA & 0xf0) + (value & 0xf0);\n        if (tmp >= 160) {\n          SEC();\n          if (overflowSet() && tmp >= 0x180) { CLV(); }\n          tmp += 0x60;\n        } else {\n          CLC();\n          if (overflowSet() && tmp < 0x80) { CLV(); }\n        }\n      } else {\n        tmp = regA + value + carrySet();\n        if (tmp >= 0x100) {\n          SEC();\n          if (overflowSet() && tmp >= 0x180) { CLV(); }\n        } else {\n          CLC();\n          if (overflowSet() && tmp < 0x80) { CLV(); }\n        }\n      }\n      regA = tmp & 0xff;\n      setNVflagsForRegA();\n    }\n\n    var instructions = {\n      i00: function () {\n        codeRunning = false;\n        //BRK\n      },\n\n      i01: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr);\n        regA |= value;\n        ORA();\n      },\n\n      i05: function () {\n        var zp = popByte();\n        regA |= memory.get(zp);\n        ORA();\n      },\n\n      i06: function () {\n        var zp = popByte();\n        var value = memory.get(zp);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        memory.storeByte(zp, value);\n        ASL(value);\n      },\n\n      i08: function () {\n        stackPush(regP | 0x30);\n        //PHP\n      },\n\n      i09: function () {\n        regA |= popByte();\n        ORA();\n      },\n\n      i0a: function () {\n        setCarryFlagFromBit7(regA);\n        regA = (regA << 1) & 0xff;\n        ASL(regA);\n      },\n\n      i0d: function () {\n        regA |= memory.get(popWord());\n        ORA();\n      },\n\n      i0e: function () {\n        var addr = popWord();\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        memory.storeByte(addr, value);\n        ASL(value);\n      },\n\n      i10: function () {\n        var offset = popByte();\n        if (!negativeSet()) { jumpBranch(offset); }\n        //BPL\n      },\n\n      i11: function () {\n        var zp = popByte();\n        var value = memory.getWord(zp) + regY;\n        regA |= memory.get(value);\n        ORA();\n      },\n\n      i15: function () {\n        var addr = (popByte() + regX) & 0xff;\n        regA |= memory.get(addr);\n        ORA();\n      },\n\n      i16: function () {\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        memory.storeByte(addr, value);\n        ASL(value);\n      },\n\n      i18: function () {\n        CLC();\n      },\n\n      i19: function () {\n        var addr = popWord() + regY;\n        regA |= memory.get(addr);\n        ORA();\n      },\n\n      i1d: function () {\n        var addr = popWord() + regX;\n        regA |= memory.get(addr);\n        ORA();\n      },\n\n      i1e: function () {\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        memory.storeByte(addr, value);\n        ASL(value);\n      },\n\n      i20: function () {\n        var addr = popWord();\n        var currAddr = regPC - 1;\n        stackPush(((currAddr >> 8) & 0xff));\n        stackPush((currAddr & 0xff));\n        regPC = addr;\n        //JSR\n      },\n\n      i21: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr);\n        regA &= value;\n        AND();\n      },\n\n      i24: function () {\n        var zp = popByte();\n        var value = memory.get(zp);\n        BIT(value);\n      },\n\n      i25: function () {\n        var zp = popByte();\n        regA &= memory.get(zp);\n        AND();\n      },\n\n      i26: function () {\n        var sf = carrySet();\n        var addr = popByte();\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        value |= sf;\n        memory.storeByte(addr, value);\n        ROL(value);\n      },\n\n      i28: function () {\n        regP = stackPop() | 0x30; // There is no B bit!\n        //PLP\n      },\n\n      i29: function () {\n        regA &= popByte();\n        AND();\n      },\n\n      i2a: function () {\n        var sf = carrySet();\n        setCarryFlagFromBit7(regA);\n        regA = (regA << 1) & 0xff;\n        regA |= sf;\n        ROL(regA);\n      },\n\n      i2c: function () {\n        var value = memory.get(popWord());\n        BIT(value);\n      },\n\n      i2d: function () {\n        var value = memory.get(popWord());\n        regA &= value;\n        AND();\n      },\n\n      i2e: function () {\n        var sf = carrySet();\n        var addr = popWord();\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        value |= sf;\n        memory.storeByte(addr, value);\n        ROL(value);\n      },\n\n      i30: function () {\n        var offset = popByte();\n        if (negativeSet()) { jumpBranch(offset); }\n        //BMI\n      },\n\n      i31: function () {\n        var zp = popByte();\n        var value = memory.getWord(zp) + regY;\n        regA &= memory.get(value);\n        AND();\n      },\n\n      i35: function () {\n        var addr = (popByte() + regX) & 0xff;\n        regA &= memory.get(addr);\n        AND();\n      },\n\n      i36: function () {\n        var sf = carrySet();\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        value |= sf;\n        memory.storeByte(addr, value);\n        ROL(value);\n      },\n\n      i38: function () {\n        SEC();\n      },\n\n      i39: function () {\n        var addr = popWord() + regY;\n        var value = memory.get(addr);\n        regA &= value;\n        AND();\n      },\n\n      i3d: function () {\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        regA &= value;\n        AND();\n      },\n\n      i3e: function () {\n        var sf = carrySet();\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        setCarryFlagFromBit7(value);\n        value = value << 1;\n        value |= sf;\n        memory.storeByte(addr, value);\n        ROL(value);\n      },\n\n      i40: function () {\n        regP = stackPop() | 0x30; // There is no B bit!\n        regPC = stackPop() | (stackPop() << 8);\n        //RTI\n      },\n\n      i41: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var value = memory.getWord(zp);\n        regA ^= memory.get(value);\n        EOR();\n      },\n\n      i45: function () {\n        var addr = popByte() & 0xff;\n        var value = memory.get(addr);\n        regA ^= value;\n        EOR();\n      },\n\n      i46: function () {\n        var addr = popByte() & 0xff;\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        memory.storeByte(addr, value);\n        LSR(value);\n      },\n\n      i48: function () {\n        stackPush(regA);\n        //PHA\n      },\n\n      i49: function () {\n        regA ^= popByte();\n        EOR();\n      },\n\n      i4a: function () {\n        setCarryFlagFromBit0(regA);\n        regA = regA >> 1;\n        LSR(regA);\n      },\n\n      i4c: function () {\n        regPC = popWord();\n        //JMP\n      },\n\n      i4d: function () {\n        var addr = popWord();\n        var value = memory.get(addr);\n        regA ^= value;\n        EOR();\n      },\n\n      i4e: function () {\n        var addr = popWord();\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        memory.storeByte(addr, value);\n        LSR(value);\n      },\n\n      i50: function () {\n        var offset = popByte();\n        if (!overflowSet()) { jumpBranch(offset); }\n        //BVC\n      },\n\n      i51: function () {\n        var zp = popByte();\n        var value = memory.getWord(zp) + regY;\n        regA ^= memory.get(value);\n        EOR();\n      },\n\n      i55: function () {\n        var addr = (popByte() + regX) & 0xff;\n        regA ^= memory.get(addr);\n        EOR();\n      },\n\n      i56: function () {\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        memory.storeByte(addr, value);\n        LSR(value);\n      },\n\n      i58: function () {\n        regP &= ~0x04;\n        throw new Error(\"Interrupts not implemented\");\n        //CLI\n      },\n\n      i59: function () {\n        var addr = popWord() + regY;\n        var value = memory.get(addr);\n        regA ^= value;\n        EOR();\n      },\n\n      i5d: function () {\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        regA ^= value;\n        EOR();\n      },\n\n      i5e: function () {\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        memory.storeByte(addr, value);\n        LSR(value);\n      },\n\n      i60: function () {\n        regPC = (stackPop() | (stackPop() << 8)) + 1;\n        //RTS\n      },\n\n      i61: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr);\n        testADC(value);\n        //ADC\n      },\n\n      i65: function () {\n        var addr = popByte();\n        var value = memory.get(addr);\n        testADC(value);\n        //ADC\n      },\n\n      i66: function () {\n        var sf = carrySet();\n        var addr = popByte();\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        if (sf) { value |= 0x80; }\n        memory.storeByte(addr, value);\n        ROR(value);\n      },\n\n      i68: function () {\n        regA = stackPop();\n        setNVflagsForRegA();\n        //PLA\n      },\n\n      i69: function () {\n        var value = popByte();\n        testADC(value);\n        //ADC\n      },\n\n      i6a: function () {\n        var sf = carrySet();\n        setCarryFlagFromBit0(regA);\n        regA = regA >> 1;\n        if (sf) { regA |= 0x80; }\n        ROR(regA);\n      },\n\n      i6c: function () {\n        regPC = memory.getWord(popWord());\n        //JMP\n      },\n\n      i6d: function () {\n        var addr = popWord();\n        var value = memory.get(addr);\n        testADC(value);\n        //ADC\n      },\n\n      i6e: function () {\n        var sf = carrySet();\n        var addr = popWord();\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        if (sf) { value |= 0x80; }\n        memory.storeByte(addr, value);\n        ROR(value);\n      },\n\n      i70: function () {\n        var offset = popByte();\n        if (overflowSet()) { jumpBranch(offset); }\n        //BVS\n      },\n\n      i71: function () {\n        var zp = popByte();\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr + regY);\n        testADC(value);\n        //ADC\n      },\n\n      i75: function () {\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        testADC(value);\n        //ADC\n      },\n\n      i76: function () {\n        var sf = carrySet();\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        if (sf) { value |= 0x80; }\n        memory.storeByte(addr, value);\n        ROR(value);\n      },\n\n      i78: function () {\n        regP |= 0x04;\n        throw new Error(\"Interrupts not implemented\");\n        //SEI\n      },\n\n      i79: function () {\n        var addr = popWord();\n        var value = memory.get(addr + regY);\n        testADC(value);\n        //ADC\n      },\n\n      i7d: function () {\n        var addr = popWord();\n        var value = memory.get(addr + regX);\n        testADC(value);\n        //ADC\n      },\n\n      i7e: function () {\n        var sf = carrySet();\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        setCarryFlagFromBit0(value);\n        value = value >> 1;\n        if (sf) { value |= 0x80; }\n        memory.storeByte(addr, value);\n        ROR(value);\n      },\n\n      i81: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        memory.storeByte(addr, regA);\n        //STA\n      },\n\n      i84: function () {\n        memory.storeByte(popByte(), regY);\n        //STY\n      },\n\n      i85: function () {\n        memory.storeByte(popByte(), regA);\n        //STA\n      },\n\n      i86: function () {\n        memory.storeByte(popByte(), regX);\n        //STX\n      },\n\n      i88: function () {\n        regY = (regY - 1) & 0xff;\n        setNVflagsForRegY();\n        //DEY\n      },\n\n      i8a: function () {\n        regA = regX & 0xff;\n        setNVflagsForRegA();\n        //TXA\n      },\n\n      i8c: function () {\n        memory.storeByte(popWord(), regY);\n        //STY\n      },\n\n      i8d: function () {\n        memory.storeByte(popWord(), regA);\n        //STA\n      },\n\n      i8e: function () {\n        memory.storeByte(popWord(), regX);\n        //STX\n      },\n\n      i90: function () {\n        var offset = popByte();\n        if (!carrySet()) { jumpBranch(offset); }\n        //BCC\n      },\n\n      i91: function () {\n        var zp = popByte();\n        var addr = memory.getWord(zp) + regY;\n        memory.storeByte(addr, regA);\n        //STA\n      },\n\n      i94: function () {\n        memory.storeByte((popByte() + regX) & 0xff, regY);\n        //STY\n      },\n\n      i95: function () {\n        memory.storeByte((popByte() + regX) & 0xff, regA);\n        //STA\n      },\n\n      i96: function () {\n        memory.storeByte((popByte() + regY) & 0xff, regX);\n        //STX\n      },\n\n      i98: function () {\n        regA = regY & 0xff;\n        setNVflagsForRegA();\n        //TYA\n      },\n\n      i99: function () {\n        memory.storeByte(popWord() + regY, regA);\n        //STA\n      },\n\n      i9a: function () {\n        regSP = regX & 0xff;\n        //TXS\n      },\n\n      i9d: function () {\n        var addr = popWord();\n        memory.storeByte(addr + regX, regA);\n        //STA\n      },\n\n      ia0: function () {\n        regY = popByte();\n        LDY();\n      },\n\n      ia1: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        regA = memory.get(addr);\n        LDA();\n      },\n\n      ia2: function () {\n        regX = popByte();\n        LDX();\n      },\n\n      ia4: function () {\n        regY = memory.get(popByte());\n        LDY();\n      },\n\n      ia5: function () {\n        regA = memory.get(popByte());\n        LDA();\n      },\n\n      ia6: function () {\n        regX = memory.get(popByte());\n        LDX();\n      },\n\n      ia8: function () {\n        regY = regA & 0xff;\n        setNVflagsForRegY();\n        //TAY\n      },\n\n      ia9: function () {\n        regA = popByte();\n        LDA();\n      },\n\n      iaa: function () {\n        regX = regA & 0xff;\n        setNVflagsForRegX();\n        //TAX\n      },\n\n      iac: function () {\n        regY = memory.get(popWord());\n        LDY();\n      },\n\n      iad: function () {\n        regA = memory.get(popWord());\n        LDA();\n      },\n\n      iae: function () {\n        regX = memory.get(popWord());\n        LDX();\n      },\n\n      ib0: function () {\n        var offset = popByte();\n        if (carrySet()) { jumpBranch(offset); }\n        //BCS\n      },\n\n      ib1: function () {\n        var zp = popByte();\n        var addr = memory.getWord(zp) + regY;\n        regA = memory.get(addr);\n        LDA();\n      },\n\n      ib4: function () {\n        regY = memory.get((popByte() + regX) & 0xff);\n        LDY();\n      },\n\n      ib5: function () {\n        regA = memory.get((popByte() + regX) & 0xff);\n        LDA();\n      },\n\n      ib6: function () {\n        regX = memory.get((popByte() + regY) & 0xff);\n        LDX();\n      },\n\n      ib8: function () {\n        CLV();\n      },\n\n      ib9: function () {\n        var addr = popWord() + regY;\n        regA = memory.get(addr);\n        LDA();\n      },\n\n      iba: function () {\n        regX = regSP & 0xff;\n        LDX();\n        //TSX\n      },\n\n      ibc: function () {\n        var addr = popWord() + regX;\n        regY = memory.get(addr);\n        LDY();\n      },\n\n      ibd: function () {\n        var addr = popWord() + regX;\n        regA = memory.get(addr);\n        LDA();\n      },\n\n      ibe: function () {\n        var addr = popWord() + regY;\n        regX = memory.get(addr);\n        LDX();\n      },\n\n      ic0: function () {\n        var value = popByte();\n        doCompare(regY, value);\n        //CPY\n      },\n\n      ic1: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr);\n        doCompare(regA, value);\n        //CPA\n      },\n\n      ic4: function () {\n        var value = memory.get(popByte());\n        doCompare(regY, value);\n        //CPY\n      },\n\n      ic5: function () {\n        var value = memory.get(popByte());\n        doCompare(regA, value);\n        //CPA\n      },\n\n      ic6: function () {\n        var zp = popByte();\n        DEC(zp);\n      },\n\n      ic8: function () {\n        regY = (regY + 1) & 0xff;\n        setNVflagsForRegY();\n        //INY\n      },\n\n      ic9: function () {\n        var value = popByte();\n        doCompare(regA, value);\n        //CMP\n      },\n\n      ica: function () {\n        regX = (regX - 1) & 0xff;\n        setNVflagsForRegX();\n        //DEX\n      },\n\n      icc: function () {\n        var value = memory.get(popWord());\n        doCompare(regY, value);\n        //CPY\n      },\n\n      icd: function () {\n        var value = memory.get(popWord());\n        doCompare(regA, value);\n        //CPA\n      },\n\n      ice: function () {\n        var addr = popWord();\n        DEC(addr);\n      },\n\n      id0: function () {\n        var offset = popByte();\n        if (!zeroSet()) { jumpBranch(offset); }\n        //BNE\n      },\n\n      id1: function () {\n        var zp = popByte();\n        var addr = memory.getWord(zp) + regY;\n        var value = memory.get(addr);\n        doCompare(regA, value);\n        //CMP\n      },\n\n      id5: function () {\n        var value = memory.get((popByte() + regX) & 0xff);\n        doCompare(regA, value);\n        //CMP\n      },\n\n      id6: function () {\n        var addr = (popByte() + regX) & 0xff;\n        DEC(addr);\n      },\n\n      id8: function () {\n        regP &= 0xf7;\n        //CLD\n      },\n\n      id9: function () {\n        var addr = popWord() + regY;\n        var value = memory.get(addr);\n        doCompare(regA, value);\n        //CMP\n      },\n\n      idd: function () {\n        var addr = popWord() + regX;\n        var value = memory.get(addr);\n        doCompare(regA, value);\n        //CMP\n      },\n\n      ide: function () {\n        var addr = popWord() + regX;\n        DEC(addr);\n      },\n\n      ie0: function () {\n        var value = popByte();\n        doCompare(regX, value);\n        //CPX\n      },\n\n      ie1: function () {\n        var zp = (popByte() + regX) & 0xff;\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr);\n        testSBC(value);\n        //SBC\n      },\n\n      ie4: function () {\n        var value = memory.get(popByte());\n        doCompare(regX, value);\n        //CPX\n      },\n\n      ie5: function () {\n        var addr = popByte();\n        var value = memory.get(addr);\n        testSBC(value);\n        //SBC\n      },\n\n      ie6: function () {\n        var zp = popByte();\n        INC(zp);\n      },\n\n      ie8: function () {\n        regX = (regX + 1) & 0xff;\n        setNVflagsForRegX();\n        //INX\n      },\n\n      ie9: function () {\n        var value = popByte();\n        testSBC(value);\n        //SBC\n      },\n\n      iea: function () {\n        //NOP\n      },\n\n      iec: function () {\n        var value = memory.get(popWord());\n        doCompare(regX, value);\n        //CPX\n      },\n\n      ied: function () {\n        var addr = popWord();\n        var value = memory.get(addr);\n        testSBC(value);\n        //SBC\n      },\n\n      iee: function () {\n        var addr = popWord();\n        INC(addr);\n      },\n\n      if0: function () {\n        var offset = popByte();\n        if (zeroSet()) { jumpBranch(offset); }\n        //BEQ\n      },\n\n      if1: function () {\n        var zp = popByte();\n        var addr = memory.getWord(zp);\n        var value = memory.get(addr + regY);\n        testSBC(value);\n        //SBC\n      },\n\n      if5: function () {\n        var addr = (popByte() + regX) & 0xff;\n        var value = memory.get(addr);\n        testSBC(value);\n        //SBC\n      },\n\n      if6: function () {\n        var addr = (popByte() + regX) & 0xff;\n        INC(addr);\n      },\n\n      if8: function () {\n        regP |= 8;\n        //SED\n      },\n\n      if9: function () {\n        var addr = popWord();\n        var value = memory.get(addr + regY);\n        testSBC(value);\n        //SBC\n      },\n\n      ifd: function () {\n        var addr = popWord();\n        var value = memory.get(addr + regX);\n        testSBC(value);\n        //SBC\n      },\n\n      ife: function () {\n        var addr = popWord() + regX;\n        INC(addr);\n      },\n\n      ierr: function () {\n        message(\"Address $\" + addr2hex(regPC) + \" - unknown opcode\");\n        codeRunning = false;\n      }\n    };\n\n    function stackPush(value) {\n      memory.set((regSP & 0xff) + 0x100, value & 0xff);\n      regSP--;\n      if (regSP < 0) {\n        regSP &= 0xff;\n        message(\"6502 Stack filled! Wrapping...\");\n      }\n    }\n\n    function stackPop() {\n      var value;\n      regSP++;\n      if (regSP >= 0x100) {\n        regSP &= 0xff;\n        message(\"6502 Stack emptied! Wrapping...\");\n      }\n      value = memory.get(regSP + 0x100);\n      return value;\n    }\n\n    // popByte() - Pops a byte\n    function popByte() {\n      return(memory.get(regPC++) & 0xff);\n    }\n\n    // popWord() - Pops a word using popByte() twice\n    function popWord() {\n      return popByte() + (popByte() << 8);\n    }\n\n    // runBinary() - Executes the assembled code\n    function runBinary() {\n      if (codeRunning) {\n        // Switch OFF everything\n        stop();\n        ui.stop();\n      } else {\n        ui.play();\n        codeRunning = true;\n        executeId = setInterval(multiExecute, 15);\n      }\n    }\n\n    function multiExecute() {\n      if (!debug) {\n        // use a prime number of iterations to avoid aliasing effects\n\n        for (var w = 0; w < 97; w++) {\n          execute();\n        }\n      }\n      updateDebugInfo();\n    }\n\n\n    function executeNextInstruction() {\n      var instructionName = popByte().toString(16).toLowerCase();\n      if (instructionName.length === 1) {\n        instructionName = '0' + instructionName;\n      }\n      var instruction = instructions['i' + instructionName];\n\n      if (instruction) {\n        instruction();\n      } else {\n        instructions.ierr();\n      }\n    }\n\n    // execute() - Executes one instruction.\n    //             This is the main part of the CPU simulator.\n    function execute(debugging) {\n      if (!codeRunning && !debugging) { return; }\n\n      setRandomByte();\n      executeNextInstruction();\n\n      if ((regPC === 0) || (!codeRunning && !debugging)) {\n        stop();\n        message(\"Program end at PC=$\" + addr2hex(regPC - 1));\n        ui.stop();\n      }\n    }\n\n    function setRandomByte() {\n      memory.set(0xfe, Math.floor(Math.random() * 256));\n    }\n\n    function updateMonitor() {\n      if (monitoring) {\n        var start = parseInt($node.find('.start').val(), 16);\n        var length = parseInt($node.find('.length').val(), 16);\n        if (start >= 0 && length > 0) {\n          $node.find('.monitor code').html(memory.format(start, length));\n        }\n      }\n    }\n\n    // debugExec() - Execute one instruction and print values\n    function debugExec() {\n      //if (codeRunning) {\n        execute(true);\n      //}\n      updateDebugInfo();\n    }\n\n    function updateDebugInfo() {\n      var html = \"A=$\" + num2hex(regA) + \" X=$\" + num2hex(regX) + \" Y=$\" + num2hex(regY) + \"<br />\";\n      html += \"SP=$\" + num2hex(regSP) + \" PC=$\" + addr2hex(regPC);\n      html += \"<br />\";\n      html += \"NV-BDIZC<br />\";\n      for (var i = 7; i >=0; i--) {\n        html += regP >> i & 1;\n      }\n      $node.find('.minidebugger').html(html);\n      updateMonitor();\n    }\n\n    // gotoAddr() - Set PC to address (or address of label)\n    function gotoAddr() {\n      var inp = prompt(\"Enter address or label\", \"\");\n      var addr = 0;\n      if (labels.find(inp)) {\n        addr = labels.getPC(inp);\n      } else {\n        if (inp.match(/^0x[0-9a-f]{1,4}$/i)) {\n          inp = inp.replace(/^0x/, \"\");\n          addr = parseInt(inp, 16);\n        } else if (inp.match(/^\\$[0-9a-f]{1,4}$/i)) {\n          inp = inp.replace(/^\\$/, \"\");\n          addr = parseInt(inp, 16);\n        }\n      }\n      if (addr === 0) {\n        message(\"Unable to find/parse given address/label\");\n      } else {\n        regPC = addr;\n      }\n      updateDebugInfo();\n    }\n\n\n    function stopDebugger() {\n      debug = false;\n    }\n\n    function enableDebugger() {\n      debug = true;\n      if (codeRunning) {\n        updateDebugInfo();\n      }\n    }\n\n    // reset() - Reset CPU and memory.\n    function reset() {\n      display.reset();\n      for (var i = 0; i < 0x600; i++) { // clear ZP, stack and screen\n        memory.set(i, 0x00);\n      }\n      regA = regX = regY = 0;\n      regPC = 0x600;\n      regSP = 0xff;\n      regP = 0x30;\n      updateDebugInfo();\n    }\n\n    function stop() {\n      codeRunning = false;\n      clearInterval(executeId);\n    }\n\n    function toggleMonitor() {\n      monitoring = !monitoring;\n    }\n\n    return {\n      runBinary: runBinary,\n      enableDebugger: enableDebugger,\n      stopDebugger: stopDebugger,\n      debugExec: debugExec,\n      gotoAddr: gotoAddr,\n      reset: reset,\n      stop: stop,\n      toggleMonitor: toggleMonitor\n    };\n  }\n\n\n  function Labels() {\n    var labelIndex = [];\n\n    function indexLines(lines) {\n      for (var i = 0; i < lines.length; i++) {\n        if (!indexLine(lines[i])) {\n          message(\"**Label already defined at line \" + (i + 1) + \":** \" + lines[i]);\n          return false;\n        }\n      }\n      return true;\n    }\n\n    // indexLine(line) - extract label if line contains one and calculate position in memory.\n    // Return false if label alread exists.\n    function indexLine(input) {\n      // remove comments\n      input = input.replace(/^(.*?);.*/, \"$1\");\n\n      // trim line\n      input = input.replace(/^\\s+/, \"\");\n      input = input.replace(/\\s+$/, \"\");\n\n      // Figure out how many bytes this instruction takes\n      var currentPC = assembler.getCurrentPC();\n      assembler.assembleLine(input); //TODO: find a better way for Labels to have access to assembler\n\n      // Find command or label\n      if (input.match(/^\\w+:/)) {\n        var label = input.replace(/(^\\w+):.*$/, \"$1\");\n        return push(label + \"|\" + currentPC);\n      }\n      return true;\n    }\n\n    // push() - Push label to array. Return false if label already exists.\n    function push(name) {\n      if (find(name)) {\n        return false;\n      }\n      labelIndex.push(name + \"|\");\n      return true;\n    }\n\n    // find() - Returns true if label exists.\n    function find(name) {\n      var nameAndAddr;\n      for (var i = 0; i < labelIndex.length; i++) {\n        nameAndAddr = labelIndex[i].split(\"|\");\n        if (name === nameAndAddr[0]) {\n          return true;\n        }\n      }\n      return false;\n    }\n\n    // setPC() - Associates label with address\n    function setPC(name, addr) {\n      var nameAndAddr;\n      for (var i = 0; i < labelIndex.length; i++) {\n        nameAndAddr = labelIndex[i].split(\"|\");\n        if (name === nameAndAddr[0]) {\n          labelIndex[i] = name + \"|\" + addr;\n          return true;\n        }\n      }\n      return false;\n    }\n\n    // getPC() - Get address associated with label\n    function getPC(name) {\n      var nameAndAddr;\n      for (var i = 0; i < labelIndex.length; i++) {\n        nameAndAddr = labelIndex[i].split(\"|\");\n        if (name === nameAndAddr[0]) {\n          return (nameAndAddr[1]);\n        }\n      }\n      return -1;\n    }\n\n    function displayMessage() {\n      var str = \"Found \" + labelIndex.length + \" label\";\n      if (labelIndex.length !== 1) {\n        str += \"s\";\n      }\n      message(str + \".\");\n    }\n\n    function reset() {\n      labelIndex = [];\n    }\n\n    return {\n      indexLines: indexLines,\n      find: find,\n      getPC: getPC,\n      displayMessage: displayMessage,\n      reset: reset\n    };\n  }\n\n\n  function Assembler() {\n    var defaultCodePC;\n    var codeLen;\n    var codeAssembledOK = false;\n\n    var Opcodes = [\n      /* Name, Imm,  ZP,   ZPX,  ZPY,  ABS, ABSX, ABSY,  IND, INDX, INDY, SNGL, BRA */\n      [\"ADC\", 0x69, 0x65, 0x75, null, 0x6d, 0x7d, 0x79, null, 0x61, 0x71, null, null],\n      [\"AND\", 0x29, 0x25, 0x35, null, 0x2d, 0x3d, 0x39, null, 0x21, 0x31, null, null],\n      [\"ASL\", null, 0x06, 0x16, null, 0x0e, 0x1e, null, null, null, null, 0x0a, null],\n      [\"BIT\", null, 0x24, null, null, 0x2c, null, null, null, null, null, null, null],\n      [\"BPL\", null, null, null, null, null, null, null, null, null, null, null, 0x10],\n      [\"BMI\", null, null, null, null, null, null, null, null, null, null, null, 0x30],\n      [\"BVC\", null, null, null, null, null, null, null, null, null, null, null, 0x50],\n      [\"BVS\", null, null, null, null, null, null, null, null, null, null, null, 0x70],\n      [\"BCC\", null, null, null, null, null, null, null, null, null, null, null, 0x90],\n      [\"BCS\", null, null, null, null, null, null, null, null, null, null, null, 0xb0],\n      [\"BNE\", null, null, null, null, null, null, null, null, null, null, null, 0xd0],\n      [\"BEQ\", null, null, null, null, null, null, null, null, null, null, null, 0xf0],\n      [\"BRK\", null, null, null, null, null, null, null, null, null, null, 0x00, null],\n      [\"CMP\", 0xc9, 0xc5, 0xd5, null, 0xcd, 0xdd, 0xd9, null, 0xc1, 0xd1, null, null],\n      [\"CPX\", 0xe0, 0xe4, null, null, 0xec, null, null, null, null, null, null, null],\n      [\"CPY\", 0xc0, 0xc4, null, null, 0xcc, null, null, null, null, null, null, null],\n      [\"DEC\", null, 0xc6, 0xd6, null, 0xce, 0xde, null, null, null, null, null, null],\n      [\"EOR\", 0x49, 0x45, 0x55, null, 0x4d, 0x5d, 0x59, null, 0x41, 0x51, null, null],\n      [\"CLC\", null, null, null, null, null, null, null, null, null, null, 0x18, null],\n      [\"SEC\", null, null, null, null, null, null, null, null, null, null, 0x38, null],\n      [\"CLI\", null, null, null, null, null, null, null, null, null, null, 0x58, null],\n      [\"SEI\", null, null, null, null, null, null, null, null, null, null, 0x78, null],\n      [\"CLV\", null, null, null, null, null, null, null, null, null, null, 0xb8, null],\n      [\"CLD\", null, null, null, null, null, null, null, null, null, null, 0xd8, null],\n      [\"SED\", null, null, null, null, null, null, null, null, null, null, 0xf8, null],\n      [\"INC\", null, 0xe6, 0xf6, null, 0xee, 0xfe, null, null, null, null, null, null],\n      [\"JMP\", null, null, null, null, 0x4c, null, null, 0x6c, null, null, null, null],\n      [\"JSR\", null, null, null, null, 0x20, null, null, null, null, null, null, null],\n      [\"LDA\", 0xa9, 0xa5, 0xb5, null, 0xad, 0xbd, 0xb9, null, 0xa1, 0xb1, null, null],\n      [\"LDX\", 0xa2, 0xa6, null, 0xb6, 0xae, null, 0xbe, null, null, null, null, null],\n      [\"LDY\", 0xa0, 0xa4, 0xb4, null, 0xac, 0xbc, null, null, null, null, null, null],\n      [\"LSR\", null, 0x46, 0x56, null, 0x4e, 0x5e, null, null, null, null, 0x4a, null],\n      [\"NOP\", null, null, null, null, null, null, null, null, null, null, 0xea, null],\n      [\"ORA\", 0x09, 0x05, 0x15, null, 0x0d, 0x1d, 0x19, null, 0x01, 0x11, null, null],\n      [\"TAX\", null, null, null, null, null, null, null, null, null, null, 0xaa, null],\n      [\"TXA\", null, null, null, null, null, null, null, null, null, null, 0x8a, null],\n      [\"DEX\", null, null, null, null, null, null, null, null, null, null, 0xca, null],\n      [\"INX\", null, null, null, null, null, null, null, null, null, null, 0xe8, null],\n      [\"TAY\", null, null, null, null, null, null, null, null, null, null, 0xa8, null],\n      [\"TYA\", null, null, null, null, null, null, null, null, null, null, 0x98, null],\n      [\"DEY\", null, null, null, null, null, null, null, null, null, null, 0x88, null],\n      [\"INY\", null, null, null, null, null, null, null, null, null, null, 0xc8, null],\n      [\"ROR\", null, 0x66, 0x76, null, 0x6e, 0x7e, null, null, null, null, 0x6a, null],\n      [\"ROL\", null, 0x26, 0x36, null, 0x2e, 0x3e, null, null, null, null, 0x2a, null],\n      [\"RTI\", null, null, null, null, null, null, null, null, null, null, 0x40, null],\n      [\"RTS\", null, null, null, null, null, null, null, null, null, null, 0x60, null],\n      [\"SBC\", 0xe9, 0xe5, 0xf5, null, 0xed, 0xfd, 0xf9, null, 0xe1, 0xf1, null, null],\n      [\"STA\", null, 0x85, 0x95, null, 0x8d, 0x9d, 0x99, null, 0x81, 0x91, null, null],\n      [\"TXS\", null, null, null, null, null, null, null, null, null, null, 0x9a, null],\n      [\"TSX\", null, null, null, null, null, null, null, null, null, null, 0xba, null],\n      [\"PHA\", null, null, null, null, null, null, null, null, null, null, 0x48, null],\n      [\"PLA\", null, null, null, null, null, null, null, null, null, null, 0x68, null],\n      [\"PHP\", null, null, null, null, null, null, null, null, null, null, 0x08, null],\n      [\"PLP\", null, null, null, null, null, null, null, null, null, null, 0x28, null],\n      [\"STX\", null, 0x86, null, 0x96, 0x8e, null, null, null, null, null, null, null],\n      [\"STY\", null, 0x84, 0x94, null, 0x8c, null, null, null, null, null, null, null],\n      [\"---\", null, null, null, null, null, null, null, null, null, null, null, null]\n    ];\n\n    // assembleCode()\n    // \"assembles\" the code into memory\n    function assembleCode() {\n      simulator.reset();\n      labels.reset();\n      defaultCodePC = 0x600;\n      $node.find('.messages code').empty();\n\n      var code = $node.find('.code').val();\n      code += \"\\n\\n\";\n      var lines = code.split(\"\\n\");\n      codeAssembledOK = true;\n\n      message(\"Indexing labels..\");\n\n      defaultCodePC = 0x600;\n\n      if (!labels.indexLines(lines)) {\n        return false;\n      }\n\n      labels.displayMessage();\n\n      defaultCodePC = 0x600;\n      message(\"Assembling code ...\");\n\n      codeLen = 0;\n      for (var i = 0; i < lines.length; i++) {\n        if (!assembleLine(lines[i], i)) {\n          codeAssembledOK = false;\n          break;\n        }\n      }\n\n      if (codeLen === 0) {\n        codeAssembledOK = false;\n        message(\"No code to run.\");\n      }\n\n      if (codeAssembledOK) {\n        ui.assembleSuccess();\n        memory.set(defaultCodePC, 0x00); //set a null byte at the end of the code\n      } else {\n        var str = lines[i].replace(\"<\", \"&lt;\").replace(\">\", \"&gt;\");\n        message(\"**Syntax error line \" + (i + 1) + \": \" + str + \"**\");\n        ui.initialize();\n        return;\n      }\n\n      message(\"Code assembled successfully, \" + codeLen + \" bytes.\");\n    }\n\n    // assembleLine()\n    //\n    // assembles one line of code.  Returns true if it assembled successfully,\n    // false otherwise.\n    function assembleLine(input, lineno) {\n      var label, command, param, addr;\n\n      // remove comments\n\n      input = input.replace(/^(.*?);.*/, \"$1\");\n\n      // trim line\n\n      input = input.replace(/^\\s+/, \"\");\n      input = input.replace(/\\s+$/, \"\");\n\n      // Find command or label\n\n      if (input.match(/^\\w+:/)) {\n        label = input.replace(/(^\\w+):.*$/, \"$1\");\n        if (input.match(/^\\w+:[\\s]*\\w+.*$/)) {\n          input = input.replace(/^\\w+:[\\s]*(.*)$/, \"$1\");\n          command = input.replace(/^(\\w+).*$/, \"$1\");\n        } else {\n          command = \"\";\n        }\n      } else {\n        command = input.replace(/^(\\w+).*$/, \"$1\");\n      }\n\n      // Blank line?  Return.\n\n      if (command === \"\") {\n        return true;\n      }\n\n      command = command.toUpperCase();\n\n      if (input.match(/^\\*\\s*=\\s*\\$?[0-9a-f]*$/)) {\n        // equ spotted\n        param = input.replace(/^\\s*\\*\\s*=\\s*/, \"\");\n        if (param[0] === \"$\") {\n          param = param.replace(/^\\$/, \"\");\n          addr = parseInt(param, 16);\n        } else {\n          addr = parseInt(param, 10);\n        }\n        if ((addr < 0) || (addr > 0xffff)) {\n          message(\"Unable to relocate code outside 64k memory\");\n          return false;\n        }\n        defaultCodePC = addr;\n        return true;\n      }\n\n      if (input.match(/^\\w+\\s+.*?$/)) {\n        param = input.replace(/^\\w+\\s+(.*?)/, \"$1\");\n      } else {\n        if (input.match(/^\\w+$/)) {\n          param = \"\";\n        } else {\n          return false;\n        }\n      }\n\n      param = param.replace(/[ ]/g, \"\");\n\n      if (command === \"DCB\") {\n        return DCB(param);\n      }\n\n\n      for (var o = 0; o < Opcodes.length; o++) {\n        if (Opcodes[o][0] === command) {\n          if (checkSingle(param, Opcodes[o][11])) { return true; }\n          if (checkImmediate(param, Opcodes[o][1])) { return true; }\n          if (checkZeroPage(param, Opcodes[o][2])) { return true; }\n          if (checkZeroPageX(param, Opcodes[o][3])) { return true; }\n          if (checkZeroPageY(param, Opcodes[o][4])) { return true; }\n          if (checkAbsoluteX(param, Opcodes[o][6])) { return true; }\n          if (checkAbsoluteY(param, Opcodes[o][7])) { return true; }\n          if (checkIndirect(param, Opcodes[o][8])) { return true; }\n          if (checkIndirectX(param, Opcodes[o][9])) { return true; }\n          if (checkIndirectY(param, Opcodes[o][10])) { return true; }\n          if (checkAbsolute(param, Opcodes[o][5])) { return true; }\n          if (checkBranch(param, Opcodes[o][12])) { return true; }\n        }\n      }\n      return false; // Unknown opcode\n    }\n\n    function DCB(param) {\n      var values, number, str, ch;\n      values = param.split(\",\");\n      if (values.length === 0) { return false; }\n      for (var v = 0; v < values.length; v++) {\n        str = values[v];\n        if (str) {\n          ch = str.substring(0, 1);\n          if (ch === \"$\") {\n            number = parseInt(str.replace(/^\\$/, \"\"), 16);\n            pushByte(number);\n          } else if (ch >= \"0\" && ch <= \"9\") {\n            number = parseInt(str, 10);\n            pushByte(number);\n          } else {\n            return false;\n          }\n        }\n      }\n      return true;\n    }\n\n    // checkBranch() - Commom branch function for all branches (BCC, BCS, BEQ, BNE..)\n    function checkBranch(param, opcode) {\n      var addr;\n      if (opcode === null) { return false; }\n\n      addr = -1;\n      if (param.match(/\\w+/)) {\n        addr = labels.getPC(param);\n      }\n      if (addr === -1) { pushWord(0x00); return false; }\n      pushByte(opcode);\n      if (addr < (defaultCodePC - 0x600)) {  // Backwards?\n        pushByte((0xff - ((defaultCodePC - 0x600) - addr)) & 0xff);\n        return true;\n      }\n      pushByte((addr - (defaultCodePC - 0x600) - 1) & 0xff);\n      return true;\n    }\n\n    // checkImmediate() - Check if param is immediate and push value\n    function checkImmediate(param, opcode) {\n      var value, label, hilo, addr;\n      if (opcode === null) { return false; }\n      if (param.match(/^#\\$[0-9a-f]{1,2}$/i)) {\n        pushByte(opcode);\n        value = parseInt(param.replace(/^#\\$/, \"\"), 16);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      if (param.match(/^#[0-9]{1,3}$/i)) {\n        pushByte(opcode);\n        value = parseInt(param.replace(/^#/, \"\"), 10);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      // Label lo/hi\n      if (param.match(/^#[<>]\\w+$/)) {\n        label = param.replace(/^#[<>](\\w+)$/, \"$1\");\n        hilo = param.replace(/^#([<>]).*$/, \"$1\");\n        pushByte(opcode);\n        if (labels.find(label)) {\n          addr = labels.getPC(label);\n          switch(hilo) {\n          case \">\":\n            pushByte((addr >> 8) & 0xff);\n            return true;\n          case \"<\":\n            pushByte(addr & 0xff);\n            return true;\n          default:\n            return false;\n          }\n        } else {\n          pushByte(0x00);\n          return true;\n        }\n      }\n      return false;\n    }\n\n    // checkIndirect() - Check if param is indirect and push value\n    function checkIndirect(param, opcode) {\n      var value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\(\\$[0-9a-f]{4}\\)$/i)) {\n        pushByte(opcode);\n        value = param.replace(/^\\(\\$([0-9a-f]{4}).*$/i, \"$1\");\n        if (value < 0 || value > 0xffff) { return false; }\n        pushWord(parseInt(value, 16));\n        return true;\n      }\n      return false;\n    }\n\n    // checkIndirectX() - Check if param is indirect X and push value\n    function checkIndirectX(param, opcode) {\n      var value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\(\\$[0-9a-f]{1,2},X\\)$/i)) {\n        pushByte(opcode);\n        value = param.replace(/^\\(\\$([0-9a-f]{1,2}).*$/i, \"$1\");\n        if (value < 0 || value > 255) { return false; }\n        pushByte(parseInt(value, 16));\n        return true;\n      }\n      return false;\n    }\n\n    // checkIndirectY() - Check if param is indirect Y and push value\n    function checkIndirectY(param, opcode) {\n      var value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\(\\$[0-9a-f]{1,2}\\),Y$/i)) {\n        pushByte(opcode);\n        value = param.replace(/^\\([\\$]([0-9a-f]{1,2}).*$/i, \"$1\");\n        if (value < 0 || value > 255) { return false; }\n        pushByte(parseInt(value, 16));\n        return true;\n      }\n      return false;\n    }\n\n    // checkSingle() - Single-byte opcodes\n    function checkSingle(param, opcode) {\n      if (opcode === null) { return false; }\n      // Accumulator instructions are counted as single-byte opcodes\n      if (param !== \"\" && param !== \"A\") { return false; }\n      pushByte(opcode);\n      return true;\n    }\n\n    // checkZeroPage() - Check if param is ZP and push value\n    function checkZeroPage(param, opcode) {\n      var value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\$[0-9a-f]{1,2}$/i)) {\n        pushByte(opcode);\n        value = parseInt(param.replace(/^\\$/, \"\"), 16);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      if (param.match(/^[0-9]{1,3}$/i)) {\n        value = parseInt(param, 10);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(opcode);\n        pushByte(value);\n        return true;\n      }\n      return false;\n    }\n\n    // checkAbsoluteX() - Check if param is ABSX and push value\n    function checkAbsoluteX(param, opcode) {\n      var number, value, addr;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\$[0-9a-f]{3,4},X$/i)) {\n        pushByte(opcode);\n        number = param.replace(/^\\$([0-9a-f]*),X/i, \"$1\");\n        value = parseInt(number, 16);\n        if (value < 0 || value > 0xffff) { return false; }\n        pushWord(value);\n        return true;\n      }\n\n      if (param.match(/^\\w+,X$/i)) {\n        param = param.replace(/,X$/i, \"\");\n        pushByte(opcode);\n        if (labels.find(param)) {\n          addr = labels.getPC(param);\n          if (addr < 0 || addr > 0xffff) { return false; }\n          pushWord(addr);\n          return true;\n        } else {\n          pushWord(0x1234);\n          return true;\n        }\n      }\n\n      return false;\n    }\n\n    // checkAbsoluteY() - Check if param is ABSY and push value\n    function checkAbsoluteY(param, opcode) {\n      var number, value, addr;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\$[0-9a-f]{3,4},Y$/i)) {\n        pushByte(opcode);\n        number = param.replace(/^\\$([0-9a-f]*),Y/i, \"$1\");\n        value = parseInt(number, 16);\n        if (value < 0 || value > 0xffff) { return false; }\n        pushWord(value);\n        return true;\n      }\n\n      // it could be a label too..\n\n      if (param.match(/^\\w+,Y$/i)) {\n        param = param.replace(/,Y$/i, \"\");\n        pushByte(opcode);\n        if (labels.find(param)) {\n          addr = labels.getPC(param);\n          if (addr < 0 || addr > 0xffff) { return false; }\n          pushWord(addr);\n          return true;\n        } else {\n          pushWord(0x1234);\n          return true;\n        }\n      }\n      return false;\n    }\n\n    // checkZeroPageX() - Check if param is ZPX and push value\n    function checkZeroPageX(param, opcode) {\n      var number, value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\$[0-9a-f]{1,2},X/i)) {\n        pushByte(opcode);\n        number = param.replace(/^\\$([0-9a-f]{1,2}),X/i, \"$1\");\n        value = parseInt(number, 16);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      if (param.match(/^[0-9]{1,3},X/i)) {\n        pushByte(opcode);\n        number = param.replace(/^([0-9]{1,3}),X/i, \"$1\");\n        value = parseInt(number, 10);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      return false;\n    }\n\n    function checkZeroPageY(param, opcode) {\n      var number, value;\n      if (opcode === null) { return false; }\n      if (param.match(/^\\$[0-9a-f]{1,2},Y/i)) {\n        pushByte(opcode);\n        number = param.replace(/^\\$([0-9a-f]{1,2}),Y/i, \"$1\");\n        value = parseInt(number, 16);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      if (param.match(/^[0-9]{1,3},Y/i)) {\n        pushByte(opcode);\n        number = param.replace(/^([0-9]{1,3}),Y/i, \"$1\");\n        value = parseInt(number, 10);\n        if (value < 0 || value > 255) { return false; }\n        pushByte(value);\n        return true;\n      }\n      return false;\n    }\n\n    // checkAbsolute() - Check if param is ABS and push value\n    function checkAbsolute(param, opcode) {\n      var value, number, addr;\n      if (opcode === null) { return false; }\n      pushByte(opcode);\n      if (param.match(/^\\$[0-9a-f]{3,4}$/i)) {\n        value = parseInt(param.replace(/^\\$/, \"\"), 16);\n        if (value < 0 || value > 0xffff) { return false; }\n        pushWord(value);\n        return true;\n      }\n      if (param.match(/^[0-9]{1,5}$/i)) {  // Thanks, Matt!\n        value = parseInt(param, 10);\n        if (value < 0 || value > 0xffff) { return false; }\n        pushWord(value);\n        return(true);\n      }\n      // it could be a label too..\n      if (param.match(/^\\w+$/)) {\n        if (labels.find(param)) {\n          addr = (labels.getPC(param));\n          if (addr < 0 || addr > 0xffff) { return false; }\n          pushWord(addr);\n          return true;\n        } else {\n          pushWord(0x1234);\n          return true;\n        }\n      }\n      return false;\n    }\n\n    // pushByte() - Push byte to memory\n    function pushByte(value) {\n      memory.set(defaultCodePC, value & 0xff);\n      defaultCodePC++;\n      codeLen++;\n    }\n\n    // pushWord() - Push a word using pushByte twice\n    function pushWord(value) {\n      pushByte(value & 0xff);\n      pushByte((value >> 8) & 0xff);\n    }\n\n    function openPopup(content, title) {\n      var w = window.open('', title, 'width=500,height=300,resizable=yes,scrollbars=yes,toolbar=no,location=no,menubar=no,status=no');\n\n      var html = \"<html><head>\";\n      html += \"<link href='style.css' rel='stylesheet' type='text/css' />\";\n      html += \"<title>\" + title + \"</title></head><body>\";\n      html += \"<pre><code>\";\n\n      html += content;\n\n      html += \"</code></pre></body></html>\";\n      w.document.write(html);\n      w.document.close();\n    }\n\n    // hexDump() - Dump binary as hex to new window\n    function hexdump() {\n      openPopup(memory.format(0x600, codeLen), 'Hexdump');\n    }\n\n    // TODO: Create separate disassembler object?\n    var addressingModes = [\n      null,\n      'Imm',\n      'ZP',\n      'ZPX',\n      'ZPY',\n      'ABS',\n      'ABSX',\n      'ABSY',\n      'IND',\n      'INDX',\n      'INDY',\n      'SNGL',\n      'BRA'\n    ];\n\n    var instructionLength = {\n      Imm: 2,\n      ZP: 2,\n      ZPX: 2,\n      ZPY: 2,\n      ABS: 3,\n      ABSX: 3,\n      ABSY: 3,\n      IND: 3,\n      INDX: 2,\n      INDY: 2,\n      SNGL: 1,\n      BRA: 2\n    };\n\n    function getModeAndCode(byte) {\n      var index;\n      var line = Opcodes.filter(function (line) {\n        var possibleIndex = line.indexOf(byte);\n        if (possibleIndex > -1) {\n          index = possibleIndex;\n          return true;\n        }\n      })[0];\n\n      if (!line) { //instruction not found\n        return {\n          opCode: '???',\n          mode: 'SNGL'\n        };\n      } else {\n        return {\n          opCode: line[0],\n          mode: addressingModes[index]\n        };\n      }\n    }\n\n    function createInstruction(address) {\n      var bytes = [];\n      var opCode;\n      var args = [];\n      var mode;\n\n      function isAccumulatorInstruction() {\n        var accumulatorBytes = [0x0a, 0x4a, 0x2a, 0x6a];\n        if (accumulatorBytes.indexOf(bytes[0]) > -1) {\n          return true;\n        }\n      }\n\n      function isBranchInstruction() {\n        return opCode.match(/^B/) && !(opCode == 'BIT' || opCode == 'BRK');\n      }\n\n      //This is gnarly, but unavoidably so?\n      function formatArguments() {\n        var argsString = args.map(num2hex).reverse().join('');\n\n        if (isBranchInstruction()) {\n          var destination = address + 2;\n          if (args[0] > 0x7f) {\n            destination -= 0x100 - args[0];\n          } else {\n            destination += args[0];\n          }\n          argsString = addr2hex(destination);\n        }\n\n        if (argsString) {\n          argsString = '$' + argsString;\n        }\n        if (mode == 'Imm') {\n          argsString = '#' + argsString;\n        }\n        if (mode.match(/X$/)) {\n          argsString += ',X';\n        }\n        if (mode.match(/^IND/)) {\n          argsString = '(' + argsString + ')';\n        }\n        if (mode.match(/Y$/)) {\n          argsString += ',Y';\n        }\n\n        if (isAccumulatorInstruction()) {\n          argsString = 'A';\n        }\n\n        return argsString;\n      }\n\n      return {\n        addByte: function (byte) {\n          bytes.push(byte);\n        },\n        setModeAndCode: function (modeAndCode) {\n          opCode = modeAndCode.opCode;\n          mode = modeAndCode.mode;\n        },\n        addArg: function (arg) {\n          args.push(arg);\n        },\n        toString: function () {\n          var bytesString = bytes.map(num2hex).join(' ');\n          var padding = Array(11 - bytesString.length).join(' ');\n          return '$' + addr2hex(address) + '    ' + bytesString + padding + opCode +\n            ' ' + formatArguments(args);\n        }\n      };\n    }\n\n    function disassemble() {\n      var startAddress = 0x600;\n      var currentAddress = startAddress;\n      var endAddress = startAddress + codeLen;\n      var instructions = [];\n      var length;\n      var inst;\n      var byte;\n      var modeAndCode;\n\n      while (currentAddress < endAddress) {\n        inst = createInstruction(currentAddress);\n        byte = memory.get(currentAddress);\n        inst.addByte(byte);\n\n        modeAndCode = getModeAndCode(byte);\n        length = instructionLength[modeAndCode.mode];\n        inst.setModeAndCode(modeAndCode);\n\n        for (var i = 1; i < length; i++) {\n          currentAddress++;\n          byte = memory.get(currentAddress);\n          inst.addByte(byte);\n          inst.addArg(byte);\n        }\n        instructions.push(inst);\n        currentAddress++;\n      }\n\n      var html = 'Address  Hexdump   Dissassembly\\n';\n      html +=    '-------------------------------\\n';\n      html += instructions.join('\\n');\n      openPopup(html, 'Disassembly');\n    }\n\n    return {\n      assembleLine: assembleLine,\n      assembleCode: assembleCode,\n      getCurrentPC: function () {\n        return defaultCodePC;\n      },\n      hexdump: hexdump,\n      disassemble: disassemble\n    };\n  }\n\n\n  function addr2hex(addr) {\n    return num2hex((addr >> 8) & 0xff) + num2hex(addr & 0xff);\n  }\n\n  function num2hex(nr) {\n    var str = \"0123456789abcdef\";\n    var hi = ((nr & 0xf0) >> 4);\n    var lo = (nr & 15);\n    return str.substring(hi, hi + 1) + str.substring(lo, lo + 1);\n  }\n\n  // message() - Prints text in the message window\n  function message(text) {\n    $node.find('.messages code').append(text + '\\n').scrollTop(10000);\n  }\n\n\n  initialize();\n}\n\n$(document).ready(function () {\n  $('.widget').each(function () {\n    SimulatorWidget(this);\n  });\n});\n",
+			"file": "/C/Users/lerug/Desktop/6502js-master/assembler.js",
+			"file_size": 62896,
+			"file_write_time": 130013740870000000,
+			"settings":
+			{
+				"buffer_size": 62896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Desktop/-JavaScript/README.md",
+			"settings":
+			{
+				"buffer_size": 452,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Desktop/js/assignment_1.html",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/lerug/Desktop/js/script.js",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"vintageous",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"help",
+			"gelp",
+			"help",
+			"\"help\"",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lerug/.ssh/id_rsa.pub",
+		"/C/Users/lerug/Desktop/ASMULATOR/rayStackMachine/src/emulator/jquery-3.2.1.slim.min.js",
+		"/C/Users/lerug/Downloads/pongtest.asm",
+		"/C/Users/lerug/Downloads/a6502/A6502.ASM",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/pong.asm",
+		"/C/Users/lerug/Desktop/6502js-master/assembler.js",
+		"/C/Users/lerug/Downloads/6502js-master (1)/6502js-master/LICENSE",
+		"/C/Users/lerug/Downloads/easy6502-gh-pages/easy6502-gh-pages/simulator/assembler.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/lerug/Desktop/nesPong/pong.asm",
+		"/C/Users/lerug/Downloads/collisiontut.asm",
+		"/C/Users/lerug/Downloads/controller/controller/controller.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/blankslate.asm",
+		"/C/Users/lerug/Downloads/pong1/pong1/pong1.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Adversary/adversary.asm",
+		"/C/Users/lerug/Desktop/nesDev/_testAdversaryNESTICIDE/adversary.asm/adversary.asm",
+		"/C/Users/lerug/Downloads/nestest.nes",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.nes.deb",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/here",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/Backgrounds/pong.nam.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/pong.bat",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learningRightWayAttempt1.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learningRightWayAttempt.bat",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Screeps/server/node_modules/screeps/bin/screeps.js",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.bat",
+		"/C/Users/lerug/Desktop/nesDev/Programming Lessons-20171106T195246Z-001/Programming Lessons/Week 1/Learning/learning.asm",
+		"/C/Users/lerug/Desktop/nesDev/background.asm",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/default/main.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/role.upgrader.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/default/ScreepsAutocomplete-master/Config/SublimeCodeIntel.json",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-3/role.builder.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/harvest.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/bot_brain.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1_unlocker.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/texas_hold_em.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/demon_rancher.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/Demon Rancher Outline txt",
+		"/C/Users/lerug/Desktop/js/index.html",
+		"/C/Users/lerug/Desktop/js/script.js",
+		"/C/Users/lerug/Desktop/js/assignment_1.html",
+		"/C/Users/lerug/Desktop/js/assignment_1.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/role.harvester.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/main.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/main.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/role.upgrader.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/role.harvester.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/arena.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1unlocker.js",
+		"/C/Users/lerug/Desktop/t1unlocker.js",
+		"/C/Users/lerug/Desktop/t1unlocker.down.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1Unlocker_single.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1unlocker.down.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/war.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/new.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/new_file.js",
+		"/C/Users/lerug/Documents/My Games/TIS-100/76561198035267196/custom/31301814.lua",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_objects.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_scenes.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_core.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/main.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_windows.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_managers.js",
+		"/C/Users/lerug/Downloads/SRD_StatDistribution.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/plugins/hello world.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/plugins/showconsoleonboot.js",
+		"/C/Users/lerug/Desktop/#Isometric RPG Ideas Doc",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Grimoire_Heralds_of_the_Winged_Exemplar/game.cfg",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Wizardry6/dosbox_windows/dosbox_wizardry6.conf",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/.vintageousrc"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"slc",
+			"memory",
+			"LDA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pong.asm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15160,
+								15163
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 2137,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/NESASM/nesasm.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11385.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/lerug/Downloads/angular.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/lerug/Downloads/easy6502-gh-pages/easy6502-gh-pages/simulator/assembler.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/lerug/Desktop/js/assignment_1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/lerug/Desktop/6502js-master/assembler.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								372
+							],
+							[
+								1641,
+								1647
+							],
+							[
+								5032,
+								5038
+							],
+							[
+								5939,
+								5945
+							],
+							[
+								6329,
+								6335
+							],
+							[
+								8341,
+								8347
+							],
+							[
+								8401,
+								8407
+							],
+							[
+								8507,
+								8513
+							],
+							[
+								8567,
+								8573
+							],
+							[
+								11315,
+								11321
+							],
+							[
+								11355,
+								11361
+							],
+							[
+								11490,
+								11496
+							],
+							[
+								11604,
+								11610
+							],
+							[
+								11693,
+								11699
+							],
+							[
+								12076,
+								12082
+							],
+							[
+								12199,
+								12205
+							],
+							[
+								12290,
+								12296
+							],
+							[
+								12557,
+								12563
+							],
+							[
+								12600,
+								12606
+							],
+							[
+								12731,
+								12737
+							],
+							[
+								12865,
+								12871
+							],
+							[
+								12956,
+								12962
+							],
+							[
+								13145,
+								13151
+							],
+							[
+								13266,
+								13272
+							],
+							[
+								13391,
+								13397
+							],
+							[
+								13482,
+								13488
+							],
+							[
+								13849,
+								13855
+							],
+							[
+								13889,
+								13895
+							],
+							[
+								14028,
+								14034
+							],
+							[
+								14143,
+								14149
+							],
+							[
+								14288,
+								14294
+							],
+							[
+								14400,
+								14406
+							],
+							[
+								14862,
+								14868
+							],
+							[
+								14960,
+								14966
+							],
+							[
+								15135,
+								15141
+							],
+							[
+								15247,
+								15253
+							],
+							[
+								15513,
+								15519
+							],
+							[
+								15556,
+								15562
+							],
+							[
+								15687,
+								15693
+							],
+							[
+								15850,
+								15856
+							],
+							[
+								15962,
+								15968
+							],
+							[
+								16155,
+								16161
+							],
+							[
+								16303,
+								16309
+							],
+							[
+								16480,
+								16486
+							],
+							[
+								16592,
+								16598
+							],
+							[
+								16895,
+								16901
+							],
+							[
+								16931,
+								16937
+							],
+							[
+								17057,
+								17063
+							],
+							[
+								17205,
+								17211
+							],
+							[
+								17296,
+								17302
+							],
+							[
+								17775,
+								17781
+							],
+							[
+								17916,
+								17922
+							],
+							[
+								18007,
+								18013
+							],
+							[
+								18274,
+								18280
+							],
+							[
+								18317,
+								18323
+							],
+							[
+								18448,
+								18454
+							],
+							[
+								18582,
+								18588
+							],
+							[
+								18673,
+								18679
+							],
+							[
+								18943,
+								18949
+							],
+							[
+								19091,
+								19097
+							],
+							[
+								19239,
+								19245
+							],
+							[
+								19330,
+								19336
+							],
+							[
+								19582,
+								19588
+							],
+							[
+								19622,
+								19628
+							],
+							[
+								19763,
+								19769
+							],
+							[
+								19933,
+								19939
+							],
+							[
+								20059,
+								20065
+							],
+							[
+								20549,
+								20555
+							],
+							[
+								20675,
+								20681
+							],
+							[
+								20845,
+								20851
+							],
+							[
+								20971,
+								20977
+							],
+							[
+								21236,
+								21242
+							],
+							[
+								21276,
+								21282
+							],
+							[
+								21440,
+								21446
+							],
+							[
+								21626,
+								21632
+							],
+							[
+								21752,
+								21758
+							],
+							[
+								22014,
+								22020
+							],
+							[
+								22162,
+								22168
+							],
+							[
+								22346,
+								22352
+							],
+							[
+								22472,
+								22478
+							],
+							[
+								22621,
+								22627
+							],
+							[
+								22649,
+								22655
+							],
+							[
+								22736,
+								22742
+							],
+							[
+								22828,
+								22834
+							],
+							[
+								22920,
+								22926
+							],
+							[
+								23230,
+								23236
+							],
+							[
+								23322,
+								23328
+							],
+							[
+								23414,
+								23420
+							],
+							[
+								23675,
+								23681
+							],
+							[
+								23710,
+								23716
+							],
+							[
+								23797,
+								23803
+							],
+							[
+								23905,
+								23911
+							],
+							[
+								24013,
+								24019
+							],
+							[
+								24227,
+								24233
+							],
+							[
+								24434,
+								24440
+							],
+							[
+								24659,
+								24665
+							],
+							[
+								24694,
+								24700
+							],
+							[
+								24853,
+								24859
+							],
+							[
+								24941,
+								24947
+							],
+							[
+								25029,
+								25035
+							],
+							[
+								25405,
+								25411
+							],
+							[
+								25493,
+								25499
+							],
+							[
+								25581,
+								25587
+							],
+							[
+								25830,
+								25836
+							],
+							[
+								25872,
+								25878
+							],
+							[
+								25955,
+								25961
+							],
+							[
+								26059,
+								26065
+							],
+							[
+								26163,
+								26169
+							],
+							[
+								26354,
+								26360
+							],
+							[
+								26567,
+								26573
+							],
+							[
+								26687,
+								26693
+							],
+							[
+								26807,
+								26813
+							],
+							[
+								27050,
+								27056
+							],
+							[
+								27090,
+								27096
+							],
+							[
+								27209,
+								27215
+							],
+							[
+								27333,
+								27339
+							],
+							[
+								27873,
+								27879
+							],
+							[
+								27997,
+								28003
+							],
+							[
+								28361,
+								28367
+							],
+							[
+								28408,
+								28414
+							],
+							[
+								28527,
+								28533
+							],
+							[
+								28875,
+								28881
+							],
+							[
+								29031,
+								29037
+							],
+							[
+								29396,
+								29402
+							],
+							[
+								29436,
+								29442
+							],
+							[
+								29547,
+								29553
+							],
+							[
+								29701,
+								29707
+							],
+							[
+								30157,
+								30163
+							],
+							[
+								30311,
+								30317
+							],
+							[
+								30661,
+								30667
+							],
+							[
+								30701,
+								30707
+							],
+							[
+								30865,
+								30871
+							],
+							[
+								31174,
+								31180
+							],
+							[
+								31322,
+								31328
+							],
+							[
+								31665,
+								31671
+							],
+							[
+								32025,
+								32031
+							],
+							[
+								32148,
+								32154
+							],
+							[
+								33672,
+								33678
+							],
+							[
+								33994,
+								34000
+							],
+							[
+								35520,
+								35526
+							],
+							[
+								35652,
+								35658
+							],
+							[
+								36617,
+								36623
+							],
+							[
+								44094,
+								44100
+							],
+							[
+								44973,
+								44979
+							],
+							[
+								46661,
+								46667
+							],
+							[
+								57222,
+								57228
+							],
+							[
+								57266,
+								57272
+							],
+							[
+								58112,
+								58118
+							],
+							[
+								61471,
+								61477
+							],
+							[
+								61757,
+								61763
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6327.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/lerug/Desktop/-JavaScript/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 521,
+								"count": 61,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/lerug/Desktop/js/assignment_1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/lerug/Desktop/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nesPong.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

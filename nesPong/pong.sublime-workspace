@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"detCol",
+				"detPad1ColTop"
+			],
+			[
+				"pad2B",
+				"pad2BotY1"
+			],
+			[
+				"pad2bo",
+				"pad2BotY0"
+			],
+			[
+				"pad2Bot",
+				"pad2BotX0"
+			],
+			[
+				"pad2Mid",
+				"pad2MidY1"
+			],
+			[
+				"pad2Mi",
+				"pad2MidX1"
+			],
+			[
+				"pad2Topy",
+				"pad2TopY0"
+			],
+			[
+				"bally",
+				"bally0"
+			],
+			[
+				"pad1Bo",
+				"pad1BotX1"
+			],
+			[
+				"pad1Boty",
+				"pad1BotY1"
+			],
+			[
+				"no",
+				"noHit"
+			],
+			[
+				"pad1Bot",
+				"pad1BotY1"
+			],
+			[
+				"pad1Midy",
+				"pad1MidY1"
+			],
+			[
+				"hit",
+				"hitDetected"
+			],
+			[
+				"pad1Topy",
+				"pad1TopY1"
+			],
+			[
+				"pad1Top",
+				"pad1TopX1"
+			],
+			[
+				"pad1Topx",
+				"pad1TopX0"
+			],
+			[
+				"pad2",
+				"pad2TopY1"
+			],
+			[
+				"pad1Boy",
+				"pad1BotY0"
+			],
+			[
+				"pad2TopY",
+				"pad2TopY1"
+			],
+			[
+				"pad2Top",
+				"pad2TopY0"
+			],
+			[
+				"PADD",
+				"PADDLE2"
+			],
+			[
+				"pad2Topx",
+				"pad2TopX1"
+			],
+			[
+				"P",
+				"PADDLE2"
+			],
+			[
+				"pad1bo",
+				"pad1BotY1"
+			],
+			[
+				"pad1Mi",
+				"pad1MidY1"
+			],
+			[
+				"pad1M",
+				"pad1MidX0"
+			],
+			[
+				"Pa",
+				"PADDLE1"
+			],
+			[
+				"PA",
+				"PADDLE1"
+			],
+			[
+				"pad1B",
+				"pad1BotX0"
+			],
+			[
+				"pad1Mid",
+				"pad1MidX1"
+			],
+			[
+				"pad1",
+				"pad1BotX1"
+			],
+			[
+				"paddle",
+				"paddle1y0"
+			],
+			[
+				"end",
+				"End"
+			],
+			[
+				"R",
+				"RIGHTWALL"
+			],
+			[
+				"END",
+				"End"
+			],
+			[
+				"ball",
+				"ballspeedx"
+			],
+			[
+				"sta",
+				"STA"
+			],
+			[
+				"move",
+				"movePaddle1Up"
+			],
+			[
+				"PAD",
+				"PADDLE2"
+			],
+			[
+				"pad",
+				"pad2V"
+			],
+			[
+				"update",
+				"updatePaddle2Location"
+			],
+			[
+				"bu",
+				"buttons2"
+			],
+			[
+				"ba",
+				"ballright"
+			],
+			[
+				"c",
+				"collisionDetected"
+			],
+			[
+				"upd",
+				"updateScore2"
+			],
+			[
+				"SC",
+				"SCOREP1"
+			],
+			[
+				"balls",
+				"ballspeedy"
+			],
+			[
+				"ballsp",
+				"ballspeedx"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"sc",
+				"score1"
+			],
+			[
+				"sco",
+				"score1"
+			],
+			[
+				"Ch",
+				"checkCollisionPad2"
+			],
+			[
+				"upda",
+				"updatePaddleLocation2"
+			],
+			[
+				"updatePa",
+				"updatePaddleLocation2"
+			],
+			[
+				"u",
+				"updatePaddleLocation1"
+			],
+			[
+				"updat",
+				"updatePaddleLocation1"
+			],
+			[
+				"up",
+				"updatePaddle2Collision"
+			],
+			[
+				"Upd",
+				"UpdatePaddle1"
+			],
+			[
+				"paddl",
+				"paddle1y0"
+			],
+			[
+				"padde",
+				"paddle1x0"
+			],
+			[
+				"check",
+				"checkCollisionPad2"
+			],
+			[
+				"paddlex1",
+				"paddle1x1"
+			],
+			[
+				"padd",
+				"paddle1y0"
+			],
+			[
+				"paddle1x",
+				"paddle1x1"
+			],
+			[
+				"Up",
+				"UpdatePaddle1Location"
+			],
+			[
+				"Upda",
+				"UpdatePaddle1Location"
+			],
+			[
+				"PDA",
+				"PADDLE2X"
+			],
+			[
+				"Pad",
+				"PADDLE2"
+			],
+			[
+				"p",
+				"paddle1ytop"
+			],
+			[
+				"pa",
+				"paddle1ytop"
+			],
+			[
+				"PD",
+				"PADDLE2X"
+			],
+			[
+				"paddley",
+				"paddle2ybot"
+			],
+			[
+				"ballspe",
+				"ballspeedy"
+			],
+			[
+				"butt",
+				"buttons2"
+			],
+			[
+				"but",
+				"buttons1"
+			],
+			[
+				"Se",
+				"SelectHeld"
+			],
+			[
+				"U",
+				"UpHeld"
+			],
+			[
+				"Rea",
+				"ReadController2"
+			],
+			[
+				"Re",
+				"ReadController1"
+			],
+			[
+				"game",
+				"gamestate"
+			],
+			[
+				"St",
+				"STA"
+			],
+			[
+				"roo",
+				"room\t(?)"
+			],
+			[
+				"console",
+				"console.\tconsole.error()"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"in",
+				"includes"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"N",
+				"NLOCK_UNLOCKED"
+			],
+			[
+				"e",
+				"ez_35"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"vintageous",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"help",
+			"gelp",
+			"help",
+			"\"help\"",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/pong.asm",
+		"/C/Users/lerug/Desktop/6502js-master/assembler.js",
+		"/C/Users/lerug/Downloads/6502js-master (1)/6502js-master/LICENSE",
+		"/C/Users/lerug/Downloads/easy6502-gh-pages/easy6502-gh-pages/simulator/assembler.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/lerug/Desktop/nesPong/pong.asm",
+		"/C/Users/lerug/Downloads/collisiontut.asm",
+		"/C/Users/lerug/Downloads/controller/controller/controller.asm",
+		"/C/Users/lerug/Downloads/pongtest.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/blankslate.asm",
+		"/C/Users/lerug/Downloads/pong1/pong1/pong1.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Adversary/adversary.asm",
+		"/C/Users/lerug/Desktop/nesDev/_testAdversaryNESTICIDE/adversary.asm/adversary.asm",
+		"/C/Users/lerug/Downloads/nestest.nes",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.nes.deb",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/here",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/Backgrounds/pong.nam.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/Pong/pong.bat",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learningRightWayAttempt1.asm",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learningRightWayAttempt.bat",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Screeps/server/node_modules/screeps/bin/screeps.js",
+		"/C/Users/lerug/Desktop/nesDev/test/Learning/learning.bat",
+		"/C/Users/lerug/Desktop/nesDev/Programming Lessons-20171106T195246Z-001/Programming Lessons/Week 1/Learning/learning.asm",
+		"/C/Users/lerug/Desktop/nesDev/background.asm",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/default/main.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/role.upgrader.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/default/ScreepsAutocomplete-master/Config/SublimeCodeIntel.json",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-3/role.builder.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/harvest.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/bot_brain.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1_unlocker.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/texas_hold_em.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/demon_rancher.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/Demon Rancher Outline txt",
+		"/C/Users/lerug/Desktop/js/index.html",
+		"/C/Users/lerug/Desktop/js/script.js",
+		"/C/Users/lerug/Desktop/js/assignment_1.html",
+		"/C/Users/lerug/Desktop/js/assignment_1.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/role.harvester.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/main.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/main.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-5/role.upgrader.js",
+		"/C/Users/lerug/AppData/Local/Screeps/scripts/screeps.com/tutorial-4/role.harvester.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/arena.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1unlocker.js",
+		"/C/Users/lerug/Desktop/t1unlocker.js",
+		"/C/Users/lerug/Desktop/t1unlocker.down.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1Unlocker_single.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/t1unlocker.down.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/war.js",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/new.js",
+		"/C/Users/lerug/AppData/Roaming/hackmud/napoleon_iii/scripts/new_file.js",
+		"/C/Users/lerug/Documents/My Games/TIS-100/76561198035267196/custom/31301814.lua",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_objects.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_scenes.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_core.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/main.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_windows.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/rpg_managers.js",
+		"/C/Users/lerug/Downloads/SRD_StatDistribution.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/plugins/hello world.js",
+		"/C/Users/lerug/Downloads/FPLE MV Demo/js/plugins/showconsoleonboot.js",
+		"/C/Users/lerug/Desktop/#Isometric RPG Ideas Doc",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Grimoire_Heralds_of_the_Winged_Exemplar/game.cfg",
+		"/C/Users/lerug/Documents/Steam Folder/Steam/steamapps/common/Wizardry6/dosbox_windows/dosbox_wizardry6.conf",
+		"/C/Users/lerug/AppData/Roaming/Sublime Text 3/Packages/User/.vintageousrc"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pong.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
